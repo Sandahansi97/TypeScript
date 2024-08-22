@@ -1,0 +1,28 @@
+// compile typescript 
+var character = 'mario';
+console.log(character);
+var inputs = document.querySelectorAll('input');
+console.log(inputs);
+inputs.forEach(function (input) {
+    console.log(input);
+});
+// Type Basics 
+/* let character = 'mario';
+let age = 30;
+let isBlackBelt = false;
+
+//character = 20;
+character = 'lgui';
+
+//age = 'yoshi';
+age = 40;
+
+//isBlackBelt = 'yes';
+isBlackBelt = true;
+
+const circ = (diameter: number) => {
+   return diameter * Math.PI;
+}
+console.log(circ(7.5));  */
+// objects and arrays 
+// arrays
